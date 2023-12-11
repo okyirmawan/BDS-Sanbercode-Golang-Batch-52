@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Oky Ade Irmawan
+2. Email: oky.irmawan@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab/Github: https://github.com/okyirmawan
+5. Akun Telegram: @okyirmawan
